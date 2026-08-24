@@ -14,3 +14,6 @@
 ## Стек
 - C++ 17
 - Pico SDK
+
+## Лицензия MIT
+[LICENSE](LICENSE)
