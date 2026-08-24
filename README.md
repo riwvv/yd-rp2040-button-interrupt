@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![C++](https://img.shields.io/badge/C++-17-blue)](https://isocpp.org/)
 [![Pico SDK](https://img.shields.io/badge/Pico%20SDK-2.3.0-green)](https://github.com/raspberrypi/pico-sdk)
-[![Platform](https://img.shields.io/badge/Platform-YD-RP2040-orange)](https://www.raspberrypi.com/products/rp2040/)
+[![Platform](https://img.shields.io/badge/Platform-RP2040-orange)](https://www.raspberrypi.com/products/rp2040/)
 
 # Взаимодействие с встроенной пользовательской кнопкой (USR) на Raspberry Pi Pico YD-RP2040
 ### Реализация IRQ и уведомление о нажатии в консоль по USB
